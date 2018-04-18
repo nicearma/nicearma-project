@@ -23,7 +23,8 @@
     "@angular/router": "^6.0.0-rc.1",
     "core-js": "^2.5.4",
     "rxjs": "^6.0.0-rc.0",
-    "zone.js": "^0.8.24"
+    "zone.js": "^0.8.24",
+    "nicearma-lib": "https://github.com/nicearma/nicearma-lib#e57718f82318fa029bfd9e8ec0497a9d8a34e0db"
   },
   "devDependencies": {
     "@angular/compiler-cli": "^6.0.0-rc.1",
