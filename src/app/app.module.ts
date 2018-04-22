@@ -3,6 +3,7 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import {NicearmaLibModule} from "nicearma-lib/dist/nicearma-lib";
+import { HttpClientModule } from '@angular/common/http';
 
 
 @NgModule({
@@ -11,7 +12,8 @@ import {NicearmaLibModule} from "nicearma-lib/dist/nicearma-lib";
   ],
   imports: [
     BrowserModule,
-    NicearmaLibModule
+    NicearmaLibModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
