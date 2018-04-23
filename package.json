@@ -24,7 +24,7 @@
     "core-js": "^2.5.4",
     "rxjs": "^6.0.0-rc.0",
     "zone.js": "^0.8.24",
-    "nicearma-lib": "https://github.com/nicearma/nicearma-lib#865f8e15c8b40f29f29970f3510a479a43a8883a"
+    "nicearma-lib": "file:../nicearma-lib"
   },
   "devDependencies": {
     "@angular/compiler-cli": "^6.0.0-rc.1",
